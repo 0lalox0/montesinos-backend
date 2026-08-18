@@ -5,7 +5,7 @@ const baseUrl = "https://angular.dev/assets/images/tutorials/common";
 const houses = [
   {
       id: "0",
-      name: "Acme Fresh Start Housing",
+      name: "Viene de Apollo via GraphQL",
       city: "Chicago",
       state: "IL",
       photo: `${baseUrl}/bernard-hermant-CLKGGwIBTaY-unsplash.jpg`,
